@@ -1,0 +1,10 @@
+Removes the uploaded profile banner for the authenticating user. Returns HTTP 200 upon success.
+
+
+
+
+
+URLs:-  https://dev.twitter.com/rest/reference/post/account/remove_profile_banner
+
+
+

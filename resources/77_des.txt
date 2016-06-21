@@ -1,0 +1,8 @@
+Returns the authenticated user’s saved search queries.
+
+
+
+
+URLs:-  https://dev.twitter.com/rest/reference/get/saved_searches/list
+
+

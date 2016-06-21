@@ -1,0 +1,7 @@
+Returns a collection of the 100 most recent retweets of the tweet specified by the id parameter.
+
+
+
+For more deatils please go through the link.
+
+URLs:-  https://dev.twitter.com/rest/reference/get/statuses/retweets/Aid

@@ -1,0 +1,6 @@
+Sends a new direct message to the specified user from the authenticating user. Requires both the user and text parameters and must be a POST. Returns the sent message in the requested format if successful.
+
+
+For more deatils please go through the link.
+
+URLs:-  https://dev.twitter.com/rest/reference/post/direct_messages/new

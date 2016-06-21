@@ -1,0 +1,10 @@
+Returns the 20 most recent Tweets liked by the authenticating or specified user.
+
+Note: the like action was known as favorite before November 3, 2015; the historical naming remains in API methods and object properties.
+
+
+
+
+URLs:-  https://dev.twitter.com/rest/reference/get/favorites/lists
+
+

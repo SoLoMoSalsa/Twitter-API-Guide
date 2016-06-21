@@ -1,0 +1,8 @@
+The Twitter Search API searches against a sampling of recent Tweets published in the past 7 days.
+All twitter api work with 0auth.
+
+
+
+For more deatils please go through the link.
+
+URLs:-  https://dev.twitter.com/rest/public/search

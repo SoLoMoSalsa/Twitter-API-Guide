@@ -1,0 +1,7 @@
+Returns Twitter’s Privacy Policy.
+
+
+
+
+URLs:- https://dev.twitter.com/rest/reference/get/help/privacy
+

@@ -1,0 +1,8 @@
+Subscribes the authenticated user to the specified list.
+
+
+
+
+URLs:- https://dev.twitter.com/rest/reference/post/lists/subscribers/create
+
+

@@ -1,0 +1,5 @@
+Returns a collection of numeric IDs for every user who has a pending request to follow the authenticating user.
+
+For more deatils please go through the link.
+
+URLs:-  https://dev.twitter.com/rest/reference/get/friendships/incoming

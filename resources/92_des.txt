@@ -1,0 +1,7 @@
+Returns the locations that Twitter has trending topic information for, closest to a specified location.
+
+The response is an array of “locations” that encode the location’s WOEID and some other human-readable information such as a canonical name and country the location belongs in.
+
+
+
+URLs:-  https://dev.twitter.com/rest/reference/get/trends/closest

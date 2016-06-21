@@ -1,0 +1,10 @@
+Returns the current configuration used by Twitter including twitter.com slugs which are not usernames, maximum photo resolutions, and t.co shortened URL length.
+
+It is recommended applications request this endpoint when they are loaded, but no more than once a day.
+
+
+
+
+URLs:-  https://dev.twitter.com/rest/reference/get/help/configuration
+
+

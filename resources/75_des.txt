@@ -1,0 +1,7 @@
+Removes multiple members from a list, by specifying a comma-separated list of member ids or screen names. The authenticated user must own the list to be able to remove members from it. Note that lists can’t have more than 500 members, and you are limited to removing up to 100 members to a list at a time with this method.
+
+
+
+URLs:-  https://dev.twitter.com/rest/reference/post/lists/members/destroy_all
+
+

@@ -1,0 +1,7 @@
+Returns the most recent tweets authored by the authenticating user that have been retweeted by others. This timeline is a subset of the user’s GET statuses / user_timeline.
+
+
+
+For more deatils please go through the link.
+
+URLs:-  https://dev.twitter.com/rest/reference/get/statuses/retweets_of_me

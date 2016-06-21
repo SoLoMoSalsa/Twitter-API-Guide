@@ -1,0 +1,14 @@
+Mutes the user specified in the ID parameter for the authenticating user.
+
+Returns the muted user in the requested format when successful. Returns a string describing the failure condition when unsuccessful.
+
+Actions taken in this method are asynchronous and changes will be eventually consistent.
+
+
+
+
+
+URLs:-  https://dev.twitter.com/rest/reference/post/mutes/users/create
+
+
+

@@ -1,0 +1,5 @@
+Access to Twitter’s suggested user list. This returns the list of suggested user categories. The category can be used in GET users / suggestions / :slug to get the users in that category.
+
+
+
+URLs:-  https://dev.twitter.com/rest/reference/get/users/suggestions

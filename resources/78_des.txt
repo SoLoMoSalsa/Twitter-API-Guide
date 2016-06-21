@@ -1,0 +1,7 @@
+Retrieve the information for the saved search represented by the given id. The authenticating user must be the owner of saved search ID being requested.
+
+
+
+
+URLs:-  https://dev.twitter.com/rest/reference/get/saved_searches/show/%3Aid
+

@@ -1,0 +1,5 @@
+Report the specified user as a spam account to Twitter. Additionally performs the equivalent of POST blocks / create on behalf of the authenticated user.
+
+
+
+URLs:-  https://dev.twitter.com/rest/reference/post/users/report_spam

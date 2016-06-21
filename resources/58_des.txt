@@ -1,0 +1,9 @@
+Returns all lists the authenticating or specified user subscribes to, including their own. The user is specified using the user_id or screen_name parameters. If no user is given, the authenticating user is used.
+
+This method used to be GET lists in version 1.0 of the API and has been renamed for consistency with other call.
+
+
+
+
+URLs:-  https://dev.twitter.com/rest/reference/get/lists/list
+

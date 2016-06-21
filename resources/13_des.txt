@@ -1,0 +1,6 @@
+Returns a single Tweet, specified by a Tweet web URL, in an oEmbed-compatible format. The returned HTML snippet will be automatically recognized as an embedded Tweet when Twitter’s widget JavaScript is included on the page.
+
+
+For more deatils please go through the link.
+
+URLs:-  https://dev.twitter.com/rest/reference/get/statuses/oembed

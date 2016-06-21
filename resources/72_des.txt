@@ -1,0 +1,8 @@
+Creates a new list for the authenticated user. Note that you can create up to 1000 lists per account.
+
+
+
+
+URLs:-  https://dev.twitter.com/rest/reference/post/lists/create
+
+

@@ -1,0 +1,6 @@
+Returns the 20 most recent direct messages sent to the authenticating user. Includes detailed information about the sender and recipient user. You can request up to 200 direct messages per call, and only the most recent 200 DMs will be available using this endpoint.
+
+
+For more deatils please go through the link.
+
+URLs:-  https://dev.twitter.com/rest/reference/get/direct_messages

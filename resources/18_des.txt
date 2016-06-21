@@ -1,0 +1,8 @@
+Returns a collection of relevant Tweets matching a specified query.
+
+Please note that Twitter’s search service and, by extension, the Search API is not meant to be an exhaustive source of Tweets. Not all Tweets will be indexed or made available via the search interface.
+
+
+For more deatils please go through the link.
+
+URLs:-  https://dev.twitter.com/rest/reference/get/search/tweets

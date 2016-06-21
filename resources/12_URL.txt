@@ -1,0 +1,15 @@
+update_with_media.json HTTP/1.1
+Host: api.twitter.com
+User-Agent: Go http package
+Content-Length: 15532
+Authorization: OAuth oauth_consumer_key="...", oauth_nonce="...", oauth_signature="...", oauth_signature_method="HMAC-SHA1", oauth_timestamp="1347058301", oauth_token="...", oauth_version="1.0"
+Content-Type: multipart/form-data;boundary=cce6735153bf14e47e999e68bb183e70a1fa7fc89722fc1efdf03a917340
+Accept-Encoding: gzip
+
+--cce6735153bf14e47e999e68bb183e70a1fa7fc89722fc1efdf03a917340
+Content-Disposition: form-data; name="status" Hello 2012-09-07 15:51:41.375247 -0700 PDT!
+--cce6735153bf14e47e999e68bb183e70a1fa7fc89722fc1efdf03a917340
+
+Content-Type: application/octet-stream
+Content-Disposition: form-data; name="media[]"; filename="media.png" ...
+--cce6735153bf14e47e999e68bb183e70a1fa7fc89722fc1efdf03a917340-- 

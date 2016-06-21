@@ -1,0 +1,8 @@
+Destroys a saved search for the authenticating user. The authenticating user must be the owner of saved search id being destroyed.
+
+
+
+
+URLs:-  https://dev.twitter.com/rest/reference/post/saved_searches/destroy/%3Aid
+
+

@@ -1,0 +1,12 @@
+Blocks the specified user from following the authenticating user. In addition the blocked user will not show in the authenticating users mentions or timeline (unless retweeted by another user). If a follow or friend relationship exists it is destroyed.
+
+The URL pattern /version/block/create/:screen_name_or_user_id.format is still accepted but not recommended. As a sequence of numbers is a valid screen name we recommend using the screen_name or user_id parameter instead.
+
+
+
+
+
+URLs:- https://dev.twitter.com/rest/reference/post/blocks/create
+
+
+

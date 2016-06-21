@@ -1,0 +1,8 @@
+Returns a collection of user_ids that the currently authenticated user does not want to receive retweets from.
+
+Use POST friendships / update to set the “no retweets” status for a given user account on behalf of the current user.
+
+
+For more deatils please go through the link.
+
+URLs:-  https://dev.twitter.com/rest/reference/get/friendships/no_retweets/ids

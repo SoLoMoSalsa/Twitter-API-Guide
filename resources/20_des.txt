@@ -1,0 +1,7 @@
+Destroys the direct message specified in the required ID parameter. The authenticating user must be the recipient of the specified direct message.
+
+Important: This method requires an access token with RWD (read, write & direct message) permissions. Consult The Application Permission Model for more information.
+
+For more deatils please go through the link.
+
+URLs:-  https://dev.twitter.com/rest/reference/post/direct_messages/destroy

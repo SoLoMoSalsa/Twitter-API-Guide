@@ -1,0 +1,11 @@
+Sets some values that users are able to set under the “Account” tab of their settings page. Only the parameters specified will be updated.
+
+
+
+
+
+
+URLs:-  https://dev.twitter.com/rest/reference/post/account/update_profile
+
+
+

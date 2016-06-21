@@ -1,0 +1,10 @@
+Returns a timeline of tweets authored by members of the specified list. Retweets are included by default. Use the include_rts=false parameter to omit retweets.
+
+Embedded Timelines is a great way to embed list timelines on your website.
+
+
+
+
+URLs:-  https://dev.twitter.com/rest/reference/get/favorites/lists
+
+

@@ -1,0 +1,12 @@
+Note: the like action was known as favorite before November 3, 2015; the historical naming remains in API methods and object properties.
+
+Un-likes the status specified in the ID parameter as the authenticating user. Returns the un-liked status in the requested format when successful.
+
+This process invoked by this method is asynchronous. The immediately returned status may not indicate the resultant liked status of the Tweet. A 200 OK response from this method will indicate whether the intended action was successful or not.
+
+
+
+
+URLs:-  https://dev.twitter.com/rest/reference/post/favorites/destroy
+
+

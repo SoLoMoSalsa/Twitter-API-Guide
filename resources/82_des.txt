@@ -1,0 +1,10 @@
+Given a latitude and a longitude, searches for up to 20 places that can be used as a place_id when updating a status.
+
+This request is an informative call and will deliver generalized results about geography.
+
+
+
+
+URLs:-  https://dev.twitter.com/rest/reference/get/geo/reverse_geocode
+
+

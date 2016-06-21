@@ -1,0 +1,11 @@
+Updates the authenticating user’s settings.
+
+
+
+
+
+
+URLs:-  https://dev.twitter.com/rest/reference/post/account/settings
+
+
+

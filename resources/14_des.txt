@@ -1,0 +1,6 @@
+Returns a collection of up to 100 user IDs belonging to users who have retweeted the tweet specified by the id parameter.
+
+
+For more deatils please go through the link.
+
+URLs:-  https://dev.twitter.com/rest/reference/get/statuses/lookup

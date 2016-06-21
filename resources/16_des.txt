@@ -1,0 +1,11 @@
+Returns the 20 most recent direct messages sent by the authenticating user. Includes detailed information about the sender and recipient user. You can request up to 200 direct messages per call, up to a maximum of 800 outgoing DMs.
+
+Important: This method requires an access token with RWD (read, write & direct message) permissions. Consult The Application Permission Model for more information.
+
+
+
+
+
+For more deatils please go through the link.
+
+URLs:-  https://dev.twitter.com/rest/reference/get/direct_message s/sent

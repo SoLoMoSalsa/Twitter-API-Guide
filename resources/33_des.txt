@@ -1,0 +1,5 @@
+Returns the relationships of the authenticating user to the comma-separated list of up to 100 screen_names or user_ids provided. Values for connections can be: following, following_requested, followed_by, none, blocking, muting.
+
+
+
+URLs:-  https://dev.twitter.com/rest/reference/get/friendships/lookup

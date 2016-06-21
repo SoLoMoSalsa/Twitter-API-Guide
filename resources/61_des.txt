@@ -1,0 +1,8 @@
+Returns the lists the specified user has been added to. If user_id or screen_name are not provided the memberships for the authenticating user are returned.
+
+
+
+
+URLs:-  https://dev.twitter.com/rest/reference/get/lists/memberships
+
+

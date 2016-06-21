@@ -1,0 +1,12 @@
+Returns a map of the available size variations of the specified user’s profile banner. If the user has not uploaded a profile banner, a HTTP 404 will be served instead. This method can be used instead of string manipulation on the profile_banner_url returned in user objects as described in Profile Images and Banners.
+
+The profile banner data available at each size variant’s URL is in PNG format.
+
+
+
+
+
+URLs:-  https://dev.twitter.com/rest/reference/get/users/profile_banner
+
+
+

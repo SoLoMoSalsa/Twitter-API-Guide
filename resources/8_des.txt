@@ -1,0 +1,8 @@
+Updates the authenticating user’s current status, also known as Tweeting.
+
+For each update attempt, the update text is compared with the authenticating user’s recent Tweets. Any attempt that would result in duplication will be blocked, resulting in a 403 error. Therefore, a user cannot submit the same status twice in a row.
+
+
+For more deatils please go through the link.
+
+URLs:-  https://dev.twitter.com/rest/reference/post/statuses/update

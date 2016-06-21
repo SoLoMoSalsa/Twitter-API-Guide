@@ -1,0 +1,10 @@
+Un-blocks the user specified in the ID parameter for the authenticating user. Returns the un-blocked user in the requested format when successful. If relationships existed before the block was instated, they will not be restored.
+
+
+
+
+
+URLs:-  https://dev.twitter.com/rest/reference/post/blocks/destroy
+
+
+

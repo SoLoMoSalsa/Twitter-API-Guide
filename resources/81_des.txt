@@ -1,0 +1,8 @@
+Returns all the information about a known place.
+
+
+
+
+URLs:-  https://dev.twitter.com/rest/reference/get/geo/id/%3Aplace_id
+
+

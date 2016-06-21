@@ -1,0 +1,8 @@
+Obtain a collection of the lists the specified user is subscribed to, 20 lists per page by default. Does not include the user’s own lists.
+
+
+
+
+URLs:-  https://dev.twitter.com/rest/reference/get/lists/subscriptions
+
+

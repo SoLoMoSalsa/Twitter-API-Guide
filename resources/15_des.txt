@@ -1,0 +1,10 @@
+Returns fully-hydrated tweet objects for up to 100 tweets per request, as specified by comma-separated values passed to the id parameter.
+
+This method is especially useful to get the details (hydrate) a collection of Tweet IDs.
+
+GET statuses / show / :id is used to retrieve a single tweet object.
+
+
+For more deatils please go through the link.
+
+URLs:-  https://dev.twitter.com/rest/reference/get/statuses/lookup

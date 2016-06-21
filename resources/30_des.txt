@@ -1,0 +1,5 @@
+Returns detailed information about the relationship between two arbitrary users.
+
+
+
+URLs:-  https://dev.twitter.com/rest/reference/get/friendships/show

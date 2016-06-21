@@ -1,0 +1,8 @@
+Deletes the specified list. The authenticated user must own the list to be able to destroy it.
+
+
+
+
+URLs:-  https://dev.twitter.com/rest/reference/post/lists/destroy
+
+

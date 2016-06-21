@@ -1,0 +1,8 @@
+Returns an array of user objects the authenticating user has muted.
+
+
+
+
+URLs:-  https://dev.twitter.com/rest/reference/get/mutes/users/list
+
+
